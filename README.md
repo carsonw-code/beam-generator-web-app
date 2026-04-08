@@ -6,7 +6,7 @@ The goal of the app is to make beam-diagram practice faster and more interactive
 
 ## Live app
 
-[Open the app here] https://beam-generator-web-app-mccunackxvmmeujrxljunr.streamlit.app/
+https://beam-generator-web-app-mccunackxvmmeujrxljunr.streamlit.app/
 
 ## What it does
 
