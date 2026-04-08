@@ -4,7 +4,9 @@ This is a Streamlit app I built to help statics students practice simply support
 
 The goal of the app is to make beam-diagram practice faster and more interactive by generating new problems instantly and letting users reveal only the parts of the solution they want to check.
 
-**Live app:** [Open the app here] https://beam-generator-web-app-mccunackxvmmeujrxljunr.streamlit.app/
+## Live app
+
+[Open the app here] https://beam-generator-web-app-mccunackxvmmeujrxljunr.streamlit.app/
 
 ## What it does
 
