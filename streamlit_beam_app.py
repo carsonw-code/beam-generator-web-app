@@ -10,7 +10,7 @@ import streamlit as st
 from matplotlib.patches import Circle, Polygon
 
 
-st.set_page_config(page_title="Random Beam Practice", layout="wide")
+st.set_page_config(page_title="Random Beam Practice", layout="center")
 
 BEAM_YLIM = (-1.7, 4.1)
 PIN_LABEL_Y = -1.10
