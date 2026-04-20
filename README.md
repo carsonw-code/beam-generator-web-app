@@ -49,3 +49,8 @@ This version is designed for practice with:
 - one point load
 - one free moment
 
+  <img width="1333" height="741" alt="image" src="https://github.com/user-attachments/assets/ef0769cf-72bb-4861-9f36-3ead9e2d7cfc" />
+
+<img width="1232" height="736" alt="image" src="https://github.com/user-attachments/assets/e6686aa6-afb2-4a2d-b962-602f47b6d85c" />
+
+
